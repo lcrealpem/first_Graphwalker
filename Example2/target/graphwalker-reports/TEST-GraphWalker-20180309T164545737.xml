@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<testsuites time="0.088" tests="2" failures="0" errors="0">
+    <testsuite name="GraphWalker" tests="2" failures="0" errors="0" time="0.088" timestamp="2018-03-09T16:45:45">
+        <properties>
+            <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+            <property name="classworlds.conf" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.3.2\plugins\maven\lib\maven3\bin\m2.conf"/>
+            <property name="env.=::" value="::\"/>
+            <property name="env.ALLUSERSPROFILE" value="C:\ProgramData"/>
+            <property name="env.APPDATA" value="C:\Users\lauri\AppData\Roaming"/>
+            <property name="env.CARBON_HOME" value="C:\DID-Gateway-1.1.0"/>
+            <property name="env.COMMONPROGRAMFILES" value="C:\Program Files\Common Files"/>
+            <property name="env.COMMONPROGRAMFILES(X86)" value="C:\Program Files (x86)\Common Files"/>
+            <property name="env.COMMONPROGRAMW6432" value="C:\Program Files\Common Files"/>
+            <property name="env.COMPUTERNAME" value="ES-CO-LREALPE"/>
+            <property name="env.COMSPEC" value="C:\Windows\system32\cmd.exe"/>
+            <property name="env.CONFIGSETROOT" value="C:\Windows\ConfigSetRoot"/>
+            <property name="env.ESET_OPTIONS" value="                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               "/>
+            <property name="env.FPS_BROWSER_APP_PROFILE_STRING" value="Internet Explorer"/>
+            <property name="env.FPS_BROWSER_USER_PROFILE_STRING" value="Default"/>
+            <property name="env.HOMEDRIVE" value="C:"/>
+            <property name="env.HOMEPATH" value="\Users\lauri"/>
+            <property name="env.JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_161"/>
+            <property name="env.LOCALAPPDATA" value="C:\Users\lauri\AppData\Local"/>
+            <property name="env.LOGONSERVER" value="\\ES-CO-LREALPE"/>
+            <property name="env.M2_HOME" value="C:\Program Files\apache-maven-3.5.2-bin"/>
+            <property name="env.MAVEN_HOME" value="C:\Program Files\apache-maven-3.5.2"/>
+            <property name="env.NUMBER_OF_PROCESSORS" value="8"/>
+            <property name="env.ONEDRIVE" value="C:\Users\lauri\OneDrive"/>
+            <property name="env.OS" value="Windows_NT"/>
+            <property name="env.PATH" value="C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\apache-maven-3.5.2-bin\bin;C:\HashiCorp\Vagrant\bin;C:\Users\lauri\AppData\Local\Microsoft\WindowsApps;C:\Program Files\apache-maven-3.5.2\bin;"/>
+            <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+            <property name="env.PROCESSOR_ARCHITECTURE" value="AMD64"/>
+            <property name="env.PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 94 Stepping 3, GenuineIntel"/>
+            <property name="env.PROCESSOR_LEVEL" value="6"/>
+            <property name="env.PROCESSOR_REVISION" value="5e03"/>
+            <property name="env.PROGRAMDATA" value="C:\ProgramData"/>
+            <property name="env.PROGRAMFILES" value="C:\Program Files"/>
+            <property name="env.PROGRAMFILES(X86)" value="C:\Program Files (x86)"/>
+            <property name="env.PROGRAMW6432" value="C:\Program Files"/>
+            <property name="env.PSMODULEPATH" value="C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules"/>
+            <property name="env.PUBLIC" value="C:\Users\Public"/>
+            <property name="env.SESSIONNAME" value="Console"/>
+            <property name="env.SYSTEMDRIVE" value="C:"/>
+            <property name="env.SYSTEMROOT" value="C:\Windows"/>
+            <property name="env.TEMP" value="C:\Users\lauri\AppData\Local\Temp"/>
+            <property name="env.TMP" value="C:\Users\lauri\AppData\Local\Temp"/>
+            <property name="env.USERDOMAIN" value="ES-CO-LREALPE"/>
+            <property name="env.USERDOMAIN_ROAMINGPROFILE" value="ES-CO-LREALPE"/>
+            <property name="env.USERNAME" value="lauri"/>
+            <property name="env.USERPROFILE" value="C:\Users\lauri"/>
+            <property name="env.VBOX_MSI_INSTALL_PATH" value="C:\Program Files\Oracle\VirtualBox\"/>
+            <property name="env.WINDIR" value="C:\Windows"/>
+            <property name="file.encoding" value="UTF-8"/>
+            <property name="file.encoding.pkg" value="sun.io"/>
+            <property name="file.separator" value="\"/>
+            <property name="idea.version" value="2017.3.4"/>
+            <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+            <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+            <property name="java.class.path" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.3.2\plugins\maven\lib\maven3\boot\plexus-classworlds-2.5.2.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.3.2\lib\idea_rt.jar"/>
+            <property name="java.class.version" value="52.0"/>
+            <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_161\jre\lib\endorsed"/>
+            <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_161\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+            <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_161\jre"/>
+            <property name="java.io.tmpdir" value="C:\Users\lauri\AppData\Local\Temp\"/>
+            <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_161\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\apache-maven-3.5.2-bin\bin;C:\HashiCorp\Vagrant\bin;C:\Users\lauri\AppData\Local\Microsoft\WindowsApps;C:\Program Files\apache-maven-3.5.2\bin;;."/>
+            <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+            <property name="java.runtime.version" value="1.8.0_161-b12"/>
+            <property name="java.specification.name" value="Java Platform API Specification"/>
+            <property name="java.specification.vendor" value="Oracle Corporation"/>
+            <property name="java.specification.version" value="1.8"/>
+            <property name="java.vendor" value="Oracle Corporation"/>
+            <property name="java.vendor.url" value="http://java.oracle.com/"/>
+            <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+            <property name="java.version" value="1.8.0_161"/>
+            <property name="java.vm.info" value="mixed mode"/>
+            <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+            <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+            <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+            <property name="java.vm.specification.version" value="1.8"/>
+            <property name="java.vm.vendor" value="Oracle Corporation"/>
+            <property name="java.vm.version" value="25.161-b12"/>
+            <property name="line.separator" value="&#xD;&#xA;"/>
+            <property name="maven.build.version" value="Apache Maven 3.3.9 (bb52d8502b132ec0a5a3f4c09453c07478323dc5; 2015-11-10T11:41:47-05:00)"/>
+            <property name="maven.home" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.3.2\plugins\maven\lib\maven3"/>
+            <property name="maven.multiModuleProjectDirectory" value="C:\Users\lauri\Documents\Git-Hub\first_Graphwalker\Example2"/>
+            <property name="maven.version" value="3.3.9"/>
+            <property name="os.arch" value="amd64"/>
+            <property name="os.name" value="Windows 10"/>
+            <property name="os.version" value="10.0"/>
+            <property name="path.separator" value=";"/>
+            <property name="sun.arch.data.model" value="64"/>
+            <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_161\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_161\jre\classes"/>
+            <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_161\jre\bin"/>
+            <property name="sun.cpu.endian" value="little"/>
+            <property name="sun.cpu.isalist" value="amd64"/>
+            <property name="sun.desktop" value="windows"/>
+            <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+            <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2017.3.4 org.graphwalker:graphwalker-maven-plugin:4.0.0-SNAPSHOT:test"/>
+            <property name="sun.java.launcher" value="SUN_STANDARD"/>
+            <property name="sun.jnu.encoding" value="Cp1252"/>
+            <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+            <property name="sun.os.patch.level" value=""/>
+            <property name="user.country" value="CO"/>
+            <property name="user.dir" value="C:\Users\lauri\Documents\Git-Hub\first_Graphwalker\Example2"/>
+            <property name="user.home" value="C:\Users\lauri"/>
+            <property name="user.language" value="es"/>
+            <property name="user.name" value="lauri"/>
+            <property name="user.script" value=""/>
+            <property name="user.timezone" value=""/>
+            <property name="user.variant" value=""/>
+        </properties>
+        <testcase name="ExampleMultipleModels2" time="0.044" classname="ExampleMultipleModels2"/>
+        <testcase name="ExampleMultipleModels1" time="0.044" classname="ExampleMultipleModels1"/>
+    </testsuite>
+</testsuites>
