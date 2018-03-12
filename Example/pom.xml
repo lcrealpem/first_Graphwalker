@@ -31,28 +31,6 @@
         <artifactId>graphwalker-java</artifactId>
         <version>${graphwalker.version}</version>
     </dependency>
-    <dependency>
-        <groupId>org.graphwalker</groupId>
-        <artifactId>graphwalker-maven-plugin</artifactId>
-        <version>${graphwalker.version}</version>
-    </dependency>
-    <dependency>
-        <groupId>com.google.inject</groupId>
-        <artifactId>guice</artifactId>
-        <version>3.0</version>
-    </dependency>
-    <dependency>
-        <groupId>net.easysol.automation</groupId>
-        <artifactId>automationFramework</artifactId>
-        <version>1.0.2</version>
-    </dependency>
-    <!-- Logger -->
-
-    <dependency>
-        <groupId>com.spinn3r</groupId>
-        <artifactId>log5j</artifactId>
-        <version>2.1.2</version>
-    </dependency>
     </dependencies>
 
     <build>
@@ -90,18 +68,4 @@
         </plugins>
     </build>
 
-    <repositories>
-        <repository>
-            <id>public</id>
-            <url>http://192.168.243.3:8111/nexus/content/repositories/public</url>
-        </repository>
-        <repository>
-            <id>thirdparty</id>
-            <url>http://192.168.243.3:8111/nexus/content/repositories/thirdparty</url>
-        </repository>
-        <repository>
-            <id>releases</id>
-            <url>http://192.168.243.3:8111/nexus/content/repositories/releases</url>
-        </repository>
-    </repositories>
 </project>
